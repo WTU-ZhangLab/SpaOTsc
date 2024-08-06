@@ -15,7 +15,6 @@ decorator==5.1.1
 dit==1.2.3
 executing==2.0.1
 fonttools==4.53.1
-igraph==0.11.6
 importlib_metadata==8.0.0
 importlib_resources==6.4.0
 ipykernel==6.29.5
@@ -51,7 +50,7 @@ Pygments==2.18.0
 pyparsing==3.1.2
 pypoman==1.1.0
 python-dateutil==2.9.0.post0
-python-igraph==0.11.6
+python-igraph==0.8.2
 python-louvain==0.13
 pytz==2024.1
 pywin32==306
